@@ -161,4 +161,4 @@ function handleFireButton() {
 	guessInput.value = "";
 }
 
-window.onload = init
+window.onload = init;
